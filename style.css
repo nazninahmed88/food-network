@@ -1,0 +1,137 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.navbar{
+    height: 60px;
+    background-color: purple;
+    
+
+}
+
+.item a{
+    
+    display: inline;
+    text-decoration: none;
+    padding-left: 20px;
+    margin-left: 200px;
+    color: white;
+    font-size: 22px;
+}  
+h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+span{
+    color: mediumvioletred;
+}
+
+.flexbol-contenar{
+    display: flex;
+    margin-bottom: 100px;
+    margin-left: 0px;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+    margin-top: 100px;
+}
+.half-width img{
+    width: 80%;
+}
+.half-width a{
+    margin: 50px;
+}
+
+.butoon{
+    background-image: linear-gradient(purple,magenta);
+    padding: 15px 50px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
+    text-decoration: none;
+    font-weight: bolder;
+    
+    
+}
+
+.top-banner{
+    background-image: url(image/Frame\ 59.jpg);
+    background-repeat: no-repeat;
+}
+
+
+.about-me{
+    background-image: url(image/photo2.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    height: 700px;
+    margin-bottom: 100px;
+    
+}
+.about1{
+    margin-left: 900px;
+    padding-top: 150px;
+}
+.first-one{
+    text-align: center;
+}
+.second-sec{
+    display: flex;
+    margin-left: 20px;
+}
+
+.second-sec img{
+    width: 300px;
+    border-radius: 20px;
+}
+
+.reipiec-item{
+    margin-left: 6%;
+    margin-right: 6%;
+    padding: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
+.comment{
+    border-radius: 30px;
+    
+    width: 1000px;
+    height: 250px;
+    margin-left: 320px;
+    box-shadow: 5px 5px 20px gray;
+    margin-top: 100px;
+    margin-bottom: 30px;
+    display: flex;
+    
+}
+.comment div{
+    margin-left: 120px;
+}
+
+
+
+.last-part{
+    height: 300px;
+    background-color: black;
+    text-align: center;
+    color: white;
+
+}
+.last h2{
+    padding-top: 50px;
+}
+
+
+
+.social-site img{
+    margin-top: 20px;
+    width: 50px;
+    padding: 10px;
+}
+.social-site img:hover{
+
+    transform: scale(1.5);
+
+}
+
